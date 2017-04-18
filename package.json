@@ -1,0 +1,20 @@
+{
+  "name": "caribean",
+  "version": "1.0.0",
+  "description": "Codingame contest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "codingame"
+  ],
+  "author": "jairoandre",
+  "license": "MIT",
+  "dependencies": {
+    "victor": "^1.1.0"
+  },
+  "devDependencies": {
+    "webpack": "^2.4.1"
+  }
+}
